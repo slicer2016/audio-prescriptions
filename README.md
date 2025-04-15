@@ -85,8 +85,8 @@ python audio_creator.py
 ### Output Audio Instructions
 Listen to the generated Hindi instructions:
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" 
-src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2079307648&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2079307648"></iframe>
+
 
 ## Limitations & Future Work
 
