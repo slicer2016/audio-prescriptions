@@ -79,9 +79,9 @@ python audio_creator.py
 
 ## Limitations & Future Work
 
-This is a proof of concept with several limitations:
-- The medicine database is limited to common Indian medications
-- OCR quality depends on image clarity and handwriting legibility
+This is a proof of concept with several limitations that I think can be easily resolved:
+- The medicine database is limited to common Indian medications. I've seen more rigorous databases available online, which can be used for enhancements.
+- OCR quality depends on image clarity and handwriting legibility, but generally works
 - Currently only supports Hindi (could extend to other languages)
 
 Future improvements could include:
@@ -89,10 +89,3 @@ Future improvements could include:
 - Integration with hospital EMR systems
 - Expanding the medicine database
 - Support for multiple languages
-
-## Acknowledgements
-
-- My sister-in-law at AIIMS for the problem insight
-- Azure Computer Vision for OCR capability
-- OpenAI GPT-4 for natural language Hindi generation
-- ElevenLabs for multilingual voice synthesis
