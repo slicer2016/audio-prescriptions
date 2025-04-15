@@ -1,0 +1,46 @@
+[
+    {
+        "medicine": "Akurit",
+        "dosage": "OD",
+        "original_text": "Tab. AKURIT",
+        "confidence": {
+            "medicine_match": 0.8,
+            "text_recognition": 0.9515,
+            "dosage_recognition": 1.0,
+            "overall": 0.8351500000000002
+        }
+    },
+    {
+        "medicine": "Benadone",
+        "dosage": "40 mg",
+        "original_text": "Tab. Benadone",
+        "confidence": {
+            "medicine_match": 0.82,
+            "text_recognition": 0.8705,
+            "dosage_recognition": 1.0,
+            "overall": 0.84305
+        }
+    },
+    {
+        "medicine": "Pantoprazole",
+        "dosage": "40 mg",
+        "original_text": "Tab. Pantop 40 mg",
+        "confidence": {
+            "medicine_match": 0.8,
+            "text_recognition": 0.9355,
+            "dosage_recognition": 1.0,
+            "overall": 0.8335500000000001
+        }
+    },
+    {
+        "medicine": "Emset",
+        "dosage": "4 mg",
+        "original_text": "Tab. Emset 4 mg OD",
+        "confidence": {
+            "medicine_match": 0.8,
+            "text_recognition": 0.9736,
+            "dosage_recognition": 1.0,
+            "overall": 0.8373600000000001
+        }
+    }
+]
