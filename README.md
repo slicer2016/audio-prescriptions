@@ -1,18 +1,18 @@
-# Medical Prescription Audio Assistant
+# Medical Prescription AI Audio Assistant
 
 A tool that converts medicine prescriptions (images) into patient-friendly audio instructions in Hindi.
 
 ## The Problem
 
-During a conversation with my sister-in-law, a doctor at AIIMS (All India Institute of Medical Sciences), I learned about a common issue that affects patient outcomes:
+During a conversation with my sister-in-law, an ER doctor at AIIMS (All India Institute of Medical Sciences) in New Dlehi, I learned about an issue that affects patient outcomes:
 
-> "Many of my patients take incorrect medications because they can't read the English prescriptions. They're either unfamiliar with English or medical terminology, leading to dangerous medication errors."
+> "Many of my patients take incorrect medications because they can't read the English prescriptions. They're either unfamiliar with English or medical terminology, leading to dangerous medication errors. Prescriptions are in English and they rely on the pharmacist to tell them what each medication looks like"
 
 This is particularly problematic for elderly patients and those from regions where Hindi is the primary language. While doctors can explain verbally during consultations, patients often forget details once they get home.
 
 ## The Solution
 
-I built this prescription-to-audio tool that:
+I built a simple prescription-to-audio AI tool that:
 
 1. Takes a photo of a prescription
 2. Uses OCR to identify medicines and dosages
