@@ -137,9 +137,9 @@ class HindiPrescriptionAudioGenerator:
             return None
 
 def main():
-    # API Keys (better to use environment variables)
-    openai_api_key = "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"
-    elevenlabs_api_key = "sk_935e5c43628ddc19d908fd6fcf0070056e567e85fbeb54c9"
+    # Get API keys from environment variables for security
+    openai_api_key = os.environ.get("OPENAI_API_KEY", "your_openai_api_key_here")
+    elevenlabs_api_key = os.environ.get("ELEVENLABS_API_KEY", "your_elevenlabs_api_key_here")
 
     # Initialize generator
     generator = HindiPrescriptionAudioGenerator(openai_api_key, elevenlabs_api_key)

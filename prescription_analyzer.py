@@ -187,7 +187,11 @@ class PrescriptionAnalyzer:
                     for line in block.get('lines', []):
                         text = line.get('text', '').strip()
                         # Get average confidence from words
-                        confidence = sum(word.get('confidence', 0) for word in line.get('words', [])) / len(line.get('words', [1]))
+                        words = line.get('words', [])
+                        if words:
+                            confidence = sum(word.get('confidence', 0) for word in words) / len(words)
+                        else:
+                            confidence = 0.5  # Default confidence if no words
                         text_results.append({
                             'text': text,
                             'confidence': confidence
@@ -284,8 +288,9 @@ def format_results(findings):
     return "\n".join(formatted)
 
 def main():
-    subscription_key = "EzLX96tItVCB36j2hHvwLgbDvfRQiggJsViGvczQar1d2Ca8bshfJQQJ99AKACYeBjFXJ3w3AAAFACOGkmWS"
-    endpoint = "https://vinaypoc.cognitiveservices.azure.com/"
+    # Get API keys from environment variables or use placeholders for demo
+    subscription_key = os.environ.get("AZURE_VISION_KEY", "your_azure_key_here")
+    endpoint = os.environ.get("AZURE_VISION_ENDPOINT", "https://your-resource.cognitiveservices.azure.com/")
     
     analyzer = PrescriptionAnalyzer(subscription_key, endpoint)
     
