@@ -77,6 +77,19 @@ python audio_creator.py
 - `patient_instructions_hindi.txt` - Generated Hindi instructions
 - `patient_instructions_hindi.mp3` - Generated audio file
 
+## Sample Output
+
+### Input Prescription
+![Sample Prescription](Prescription5.jpeg)
+
+### Output Audio Instructions
+Listen to the generated Hindi instructions:
+
+<audio controls>
+  <source src="patient_instructions_hindi.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 ## Limitations & Future Work
 
 This is a proof of concept with several limitations that I think can be easily resolved:
