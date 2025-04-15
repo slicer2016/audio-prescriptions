@@ -1,0 +1,101 @@
+Medicine Name,Generic Name,Physical Description,Common Brand Names,Standard Dosage Forms,Typical Usage
+Ecosprin,Aspirin,White round tablet with 'Ecosprin 75' embossed,Ecosprin/Loprin,75mg once daily,Blood thinner for heart patients
+Glycomet,Metformin,White round tablet scored on one side,Glycomet/Glucophage,500mg/850mg/1000mg twice daily,Diabetes control
+Telma,Telmisartan,White oval tablet with 'T40' marking,Telma/Telmikind,20mg/40mg/80mg once daily,Blood pressure control
+Pan-D,Pantoprazole + Domperidone,Blue and white capsule,Pan-D/Pandiff-D,40mg+30mg once daily before breakfast,Acidity and gas relief
+Atorva,Atorvastatin,White oval film-coated tablet,Atorva/Atorlip,10mg/20mg/40mg once daily at night,Cholesterol control
+Amlokind,Amlodipine,Pink round tablet with 'AML 5' marking,Amlokind/Amlopres,2.5mg/5mg/10mg once daily,Blood pressure control
+Azithral,Azithromycin,Pink oval film-coated tablet,Azithral/Zithromax,500mg once daily for 3-5 days,Antibiotic for infections
+Crocin,Paracetamol,White round tablet with 'CROCIN' embossed,Crocin/Dolo,500mg/650mg as needed,Fever and pain relief
+Montair LC,Montelukast + Levocetirizine,Yellow and white capsule,Montair-LC/Romilast-L,10mg+5mg once daily at night,Allergy and asthma relief
+Thyronorm,Levothyroxine,White round scored tablet with strength number,Thyronorm/Eltroxin,25mcg/50mcg/100mcg once daily empty stomach,Thyroid hormone replacement
+Cipcal D3,Calcium + Vitamin D3,White oval film-coated tablet,Cipcal-D3/Shelcal,500mg+250IU once daily,Calcium supplementation
+Allegra,Fexofenadine,Pink oval film-coated tablet,Allegra/Fexova,120mg/180mg once daily,Allergy relief
+Metxl,Metoprolol,White round tablet with 'METXL' marking,Metxl/Betaloc,25mg/50mg once daily,Heart rate control
+Duphaston,Dydrogesterone,White round tablet with '155' embossed,Duphaston,10mg twice daily,Hormone replacement
+Cardace,Ramipril,Yellow capsule-shaped tablet,Cardace/Ramipril,2.5mg/5mg/10mg once daily,Blood pressure control
+Nexito,Escitalopram,White oval film-coated tablet,Nexito/Cipralex,5mg/10mg/20mg once daily,Depression treatment
+Augmentin,Amoxicillin + Clavulanic acid,White oval film-coated tablet,Augmentin/Clavam,625mg twice daily,Bacterial infections
+Lantus,Insulin Glargine,Clear solution in pen/vial,Lantus/Basalog,As prescribed units daily,Diabetes control
+Zincovit,Multivitamin + Minerals,Red and silver capsule,Zincovit/Optineuron,Once daily,Vitamin supplementation
+Betadine,Povidone Iodine,Brown liquid solution,Betadine/Wokadine,Apply as needed,Antiseptic solution
+Combiflam,Ibuprofen + Paracetamol,Yellow film-coated tablet,Combiflam,As needed for pain,Pain and fever relief
+Cetrizine,Cetirizine,White round tablet,Cetrizine/Cetzine,10mg once daily,Allergy relief
+Rablet,Rabeprazole,Light blue enteric-coated tablet,Rablet/Razo,20mg once daily,Acid reflux treatment
+Duphalac,Lactulose,Clear syrup,Duphalac/Lactulose,15-30ml daily,Constipation relief
+Neurobion Forte,Vitamin B Complex,Yellow film-coated tablet,Neurobion/Nervijen,Once daily,Nerve health supplement
+Evion,Vitamin E,Brown soft gelatin capsule,Evion/E-cod,400IU daily,Vitamin E supplement
+Livogen,Iron + Folic Acid,Red film-coated tablet,Livogen/Dexorange,Once daily,Iron deficiency
+Famocid,Famotidine,White round tablet,Famocid/Topcid,20mg/40mg daily,Acidity control
+Januvia,Sitagliptin,Pink round film-coated tablet,Januvia/Sitadig,50mg/100mg once daily,Diabetes control
+Climax,Clonazepam,White round scored tablet,Climax/Lonazep,0.5mg/1mg as prescribed,Anxiety relief
+Dexona,Dexamethasone,White round tablet,Dexona/Decmax,0.5mg as prescribed,Anti-inflammatory
+Restyl,Alprazolam,White oval scored tablet,Restyl/Alprax,0.25mg/0.5mg as prescribed,Anxiety treatment
+Flagyl,Metronidazole,White round film-coated tablet,Flagyl/Metrogyl,400mg thrice daily,Antibiotic
+Limcee,Vitamin C,Orange round tablet,Limcee/Celin,500mg daily,Vitamin C supplement
+Zestril,Lisinopril,White round tablet,Zestril/Listril,5mg/10mg once daily,Blood pressure control
+B-Complex,Vitamin B Complex,Yellow film-coated tablet,B-Complex/Becosules,Once daily,Vitamin B supplement
+Candid-B,Clotrimazole + Beclomethasone,White cream,Candid-B/Clocip-B,Apply twice daily,Antifungal cream
+Omez,Omeprazole,Blue and white capsule,Omez/Omesec,20mg once daily,Acid reflux treatment
+Norflox,Norfloxacin,White film-coated tablet,Norflox/Norbid,400mg twice daily,Urinary tract infections
+Metrogyl,Metronidazole,White round tablet,Metrogyl/Flagyl,400mg thrice daily,Antibiotic
+Shelcal,Calcium + Vitamin D3,White oval tablet,Shelcal/Calcirol,500mg+250IU daily,Calcium supplement
+Aciloc,Ranitidine,Yellow round tablet,Aciloc/Rantac,150mg twice daily,Acidity control
+Sporlac,Lactic acid bacillus,White powder sachet,Sporlac/Lactobacil,Twice daily,Probiotic
+Taxim-O,Cefixime,White capsule-shaped tablet,Taxim-O/Cefolac,200mg twice daily,Antibiotic
+Cyclopam,Dicyclomine,White round tablet,Cyclopam/Spasmonil,10mg thrice daily,Abdominal pain relief
+Renerve Plus,Methylcobalamin + Pregabalin,Red and yellow capsule,Renerve/Methylcobal,Once daily,Nerve pain relief
+Bandrone,Ibandronate,White film-coated tablet,Bandrone/Bonish,150mg monthly,Osteoporosis treatment
+Arkamin,Clonidine,White round scored tablet,Arkamin/Catapres,100mcg twice daily,Blood pressure control
+Eltroxin,Levothyroxine,White round tablet,Eltroxin/Thyronorm,As prescribed daily,Thyroid treatment
+Concor,Bisoprolol,White heart-shaped tablet,Concor/Bisoprolol,5mg once daily,Heart medication
+Cetapin XR,Metformin Extended Release,White oval tablet,Cetapin/Glucophage XR,500mg/1000mg daily,Diabetes control
+Ivabrad,Ivabradine,Peach-colored oval tablet,Ivabrad/Ivabid,5mg twice daily,Heart rate control
+Cinod,Cinnarizine,White round tablet,Cinod/Stugeron,25mg thrice daily,Vertigo treatment
+Pantocid,Pantoprazole,Yellow enteric-coated tablet,Pantocid/Pan,40mg once daily,Acid reflux
+Metxl XL,Metoprolol Extended Release,White round tablet,Metxl XL/Betaloc XL,25mg/50mg once daily,Heart condition
+Rosix,Rosuvastatin,Pink oval tablet,Rosix/Rosuvas,5mg/10mg/20mg once daily,Cholesterol control
+Practin,Cyproheptadine,White round tablet,Practin/Ciplactin,4mg four times daily,Appetite stimulant
+Razo-D,Rabeprazole + Domperidone,Blue and white capsule,Razo-D/Rablet-D,20mg+30mg daily,Acidity with gas
+Orofer XT,Iron + Zinc,Red oval capsule,Orofer/Ferium XT,Once daily,Iron supplement
+Vertin,Betahistine,White round tablet,Vertin/Serc,16mg twice daily,Vertigo treatment
+Syndopa Plus,Levodopa + Carbidopa,Blue round scored tablet,Syndopa/Sinmet Plus,100mg+25mg thrice daily,Parkinson's treatment
+Corex,Codeine + Chlorpheniramine,Brown syrup,Corex/Ascoril,As prescribed,Cough syrup
+Tenormin,Atenolol,White round scored tablet,Tenormin/Aten,50mg once daily,Blood pressure control
+Ranitidine,Ranitidine,Yellow round tablet,Ranitidine/Rantac,150mg twice daily,Acidity control
+Zoryl-M,Glimepiride + Metformin,White oval tablet,Zoryl-M/Gluconorm-G,1mg+500mg twice daily,Diabetes control
+Betacap TR,Propranolol Extended Release,Blue capsule,Betacap/Ciplar LA,40mg once daily,Migraine prevention
+Pantop DSR,Pantoprazole + Domperidone SR,Blue and white capsule,Pantop-D/Pan-D,40mg+30mg daily,Acid reflux with gas
+Pirox,Piroxicam,Blue and red capsule,Pirox/Dolonex,20mg daily,Pain relief
+Domstal,Domperidone,White round tablet,Domstal/Motilium,10mg thrice daily,Nausea relief
+Ciplox,Ciprofloxacin,White round film-coated tablet,Ciplox/Ciprobid,500mg twice daily,Antibiotic
+Calpsor,Calcipotriol,White cream,Calpsor/Daivonex,Apply twice daily,Psoriasis treatment
+Rifaximine,Rifaximin,Pink film-coated tablet,Rifaximine/Rcifax,550mg twice daily,Intestinal problems
+Biodroxil,Cefadroxil,White capsule,Biodroxil/Droxyl,500mg twice daily,Antibiotic
+Istamet,Sitagliptin + Metformin,Pink oval tablet,Istamet/Janumet,50mg+500mg twice daily,Diabetes control
+Febutaz,Febuxostat,Yellow oval tablet,Febutaz/Febugood,40mg once daily,Gout treatment
+Rexipra,Escitalopram,White oval tablet,Rexipra/Nexito,10mg once daily,Depression treatment
+Nurokind,Methylcobalamin,Red oval capsule,Nurokind/Mecobal,1500mcg daily,Nerve health
+Levocet,Levocetirizine,White oval tablet,Levocet/Xyzal,5mg once daily,Allergy relief
+Udiliv,Ursodeoxycholic Acid,White round tablet,Udiliv/Ursocol,300mg twice daily,Liver health
+Glimfirst-M,Glimepiride + Metformin,White oval scored tablet,Glimfirst-M/Amaryl-M,2mg+500mg twice daily,Diabetes control
+Pantosec D,Pantoprazole + Domperidone,Blue and white capsule,Pantosec-D/Pan-D,40mg+30mg daily,Acidity relief
+Cartigen,Glucosamine + Chondroitin,White capsule,Cartigen/Jointace,Once daily,Joint health
+Volix,Voglibose,White round tablet,Volix/Voglistar,0.2mg/0.3mg thrice daily,Diabetes control
+Telista,Telmisartan + Amlodipine,White oval tablet,Telista/Telma-AM,40mg+5mg once daily,Blood pressure control
+Meganeuron,Pregabalin,White capsule,Meganeuron/Pregabalin,75mg twice daily,Nerve pain
+Starpress XL,Metoprolol Extended Release,White round tablet,Starpress/Metolar XL,25mg once daily,Heart condition
+Rabonik DSR,Rabeprazole + Domperidone SR,Blue and white capsule,Rabonik-DSR/Rablet-DSR,20mg+30mg daily,Gastric problems
+Hexidine,Chlorhexidine,Red mouthwash,Hexidine/Chlorhex,Rinse twice daily,Oral antiseptic
+Uprise D3,Vitamin D3,Soft gelatin capsule,Uprise/D-Rise,60000IU weekly,Vitamin D supplement
+Cetapin,Metformin,White round tablet,Cetapin/Glucophage,500mg twice daily,Diabetes control
+Stamlo,Amlodipine,White round tablet,Stamlo/Amlopres,5mg once daily,Blood pressure control
+Roxid,Roxithromycin,White film-coated tablet,Roxid/Rulide,150mg twice daily,Antibiotic
+Olanex F,Olanzapine,Yellow round tablet,Olanex/Olimelt,5mg/10mg once daily,Antipsychotic
+Roseday,Rosuvastatin,Pink oval tablet,Roseday/Rosuvas,10mg once daily,Cholesterol control
+Epsolin,Eprosartan,White oval tablet,Epsolin/Teveten,600mg once daily,Blood pressure control
+Glimestar-M,Glimepiride + Metformin,White oval tablet,Glimestar-M/Amaryl-M,1mg+500mg twice daily,Diabetes control
+Rozucor,Rosuvastatin,Pink round tablet,Rozucor/Rosuvas,10mg once daily,Cholesterol control
+Nervijen,Vitamin B Complex,Yellow capsule,Nervijen/Neurobion,Once daily,Nerve supplement
+Rabiplus,Rabeprazole + Domperidone,Blue and white capsule,Rabiplus/Rablet-D,20mg+30mg daily,Acidity control
+Mondeslor,Montelukast + Desloratadine,Yellow film-coated tablet,Mondeslor
